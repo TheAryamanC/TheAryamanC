@@ -1,4 +1,4 @@
-## Hi! I'm Aryaman
+## Hi! I'm Aryaman :)
 
 I'm a computer science researcher and teacher.
 
